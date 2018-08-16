@@ -1,7 +1,8 @@
-# Location Pinner
-My model is modified from AlexNet, a heatmap is generated to decide the whether  
-object in the heatmap and attention loss is generated with softmax function   
-model train with attention loss and classification loss to pinpoint the location of object.  
+# Object Location Pinner
+This project performed center estimation of a object in various background using my modified CNN. 
+My model is modified from AlexNet, a heatmap is generated to decide the whether 
+object in the heatmap and attention loss is generated with softmax function.  
+Model is trained with attention loss and classification loss to pinpoint the location of object. 
 I got around 83% of accuracy with my tool dataset with this model    
 To train the model: 
 ```bash
