@@ -15,6 +15,8 @@ python pin_location.py sample/example.jpg
 output overlay result:  
 ![alt text](example_overlay.jpg)  
 green dot is predicted center point of the object and the red dot is labeled center point of the object  
+  
+Please feel free to fork this repo, and please kindly star this repo if you find it useful :)
 
 
 
